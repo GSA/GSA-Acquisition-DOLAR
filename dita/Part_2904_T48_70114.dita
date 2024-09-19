@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="Part_2904_T48_70114">
+      <title class="- topic/title ">PART 2904—ADMINISTRATIVE AND INFORMATION MATTERS
+</title>
+      <body>
+         <p>
+            <ph class="- topic/ph ">Authority: </ph>
+                           5 U.S.C. 301, 40 U.S.C. 486(c).
+
+                        </p>
+         <p>
+            <ph class="- topic/ph ">Source: </ph>
+                           89 FR 66618, Aug. 16, 2024, unless otherwise noted.
+
+
+
+
+
+                        </p>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_2904_7_T48_701141.dita#Subpart_2904_7_T48_701141">Subpart 2904.7—Contractor Records Retention</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_2904_703_T48_70114111.dita#Section_2904_703_T48_70114111">2904.703 Policy.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_2904_703-70_T48_70114112.dita#Section_2904_703-70_T48_70114112">2904.703-70 Contract clause.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

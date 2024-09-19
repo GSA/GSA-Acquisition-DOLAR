@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="Part_2945_T48_701733">
+      <title class="- topic/title ">PART 2945—GOVERNMENT PROPERTY
+
+
+</title>
+      <body>
+         <p>
+            <ph class="- topic/ph ">Authority: </ph>
+                           5 U.S.C. 301; 40 U.S.C. 486(c).
+
+                        </p>
+         <p>
+            <ph class="- topic/ph ">Source: </ph>
+                           89 FR 66618, Aug. 16, 2024, unless otherwise noted.
+
+
+
+                        </p>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_2945_1_T48_7017331.dita#Subpart_2945_1_T48_7017331">Subpart 2945.1—General</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_2045_104_T48_701733111.dita#Section_2045_104_T48_701733111">2045.104 Responsibility and liability for Government property.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_2945_104-70_T48_701733112.dita#Section_2945_104-70_T48_701733112">2945.104-70 Contract clause.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_2945_105_T48_701733113.dita#Section_2945_105_T48_701733113">2945.105 Contractors' property management system compliance.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_2945_105-70_T48_701733114.dita#Section_2945_105-70_T48_701733114">2945.105-70 Contract clause.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

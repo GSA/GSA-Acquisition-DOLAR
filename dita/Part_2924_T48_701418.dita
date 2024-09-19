@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="Part_2924_T48_701418">
+      <title class="- topic/title ">PART 2924—PROTECTION OF PRIVACY AND FREEDOM OF INFORMATION
+
+
+</title>
+      <body>
+         <p>
+            <ph class="- topic/ph ">Authority: </ph>
+                           5 U.S.C. 301; 40 U.S.C. 486(c).
+
+                        </p>
+         <p>
+            <ph class="- topic/ph ">Source: </ph>
+                           89 FR 66618, Aug. 16, 2024, unless otherwise noted.
+
+
+
+                        </p>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_2924_1_T48_7014181.dita#Subpart_2924_1_T48_7014181">Subpart 2924.1—Protection of Individual Privacy</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_2924_103_T48_701418111.dita#Section_2924_103_T48_701418111">2924.103 Procedures.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_2924_103-70_T48_701418112.dita#Section_2924_103-70_T48_701418112">2924.103-70 Contract clause.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

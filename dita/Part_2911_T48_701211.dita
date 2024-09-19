@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="Part_2911_T48_701211">
+      <title class="- topic/title ">PART 2911—DESCRIBING AGENCY NEEDS
+</title>
+      <body>
+         <p>
+            <ph class="- topic/ph ">Authority: </ph>
+                           5 U.S.C. 301; 40 U.S.C. 486(c).
+
+                        </p>
+         <p>
+            <ph class="- topic/ph ">Source: </ph>
+                           89 FR 66618, Aug. 16, 2024, unless otherwise noted.
+
+
+
+
+
+
+
+                        </p>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Section_2911_002_T48_701211011.dita#Section_2911_002_T48_701211011">2911.002 Policy.</xref>
+               </p>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Section_2911_002-70_T48_701211012.dita#Section_2911_002-70_T48_701211012">2911.002-70 Contract clause.</xref>
+               </p>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>
