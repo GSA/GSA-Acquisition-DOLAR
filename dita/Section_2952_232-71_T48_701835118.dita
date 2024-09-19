@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_2952_232-71_T48_701835118">
+      <title class="- topic/title ">
+         <ph props="autonumber">2952.232-71</ph> Submission of Invoices.</title>
+      <conbody>
+         <p xtrc="P">As prescribed in 2932.908, insert the following clause:
+</p>
+                                 <p xtrc="HD1">Submission of Invoices (AUG 2019)
+</p>
+                                 <p outputclass="List1">(a) Electronic Invoice Submittal
+</p>
+                                 <p xtrc="P">Invoices for the services/goods provided under this award shall be submitted through the Department of Treasury's Invoice Processing Platform (IPP) or through the DOL Quickpay email system, as directed by the Contracting Officer. IPP is a Federal Government owned and operated website accessible to contractors free of charge. Information about IPP, including enrollment instructions, are available and should be obtained by the enrolled contractors directly from the Department of Treasury after award at <i>https://www.ipp.gov.</i>
+                                 </p>
+                                 <p outputclass="List1">
+				</p>
+         <p outputclass="List2">(1) 
+			The following instructions apply to Invoices submitted through <i>IPP.Gov</i> or the DOL Quickpay email system:
+</p>
+                                 <p outputclass="List2">
+				</p>
+         <p outputclass="List3">(i) 
+			IPP invoice attachments SHALL NOT exceed the size limit of 10 megabytes (MB) each. However, you may submit multiple attachments of less than 10MB each with the invoices.
+</p>
+                                 <p outputclass="List2">(ii) DO NOT submit an invoice or attachment that uses shading or color.
+</p>
+                                 <p outputclass="List1">(b) An emailed Portable Document Format (PDF) image cannot have any text that has a background with any color other than white. If the image has a shaded background, it will be converted to black, and the text will be illegible.
+</p>
+                                 <p outputclass="List1">(c) An emailed Tagged Image File Format (TIFF) image must be black and white.
+</p>
+                                 <p outputclass="List2">(1) Quickpay users SHALL provide a copy of the invoice and any attachments via email to the Contracting Officer's Representative (COR, at the address specified in the contract.
+</p>
+                                 <p outputclass="List2">(2) Quickpay users SHALL NOT submit more than one attachment per invoice and the attachment shall not exceed 10MB. Any additional attachments will not be recognized.
+</p>
+                                 <p outputclass="List2">(3) DO NOT submit more than one invoice at a time.
+</p>
+                                 <p outputclass="List2">(4) DO NOT attempt to use the “Recall” or “Resend” email message features.
+</p>
+                                 <p outputclass="List1">(d) Electronic invoices shall be in PDF or TIFF format.
+</p>
+                                 <p outputclass="List1">(e) Paper Invoices shall be submitted via fax or U.S. mail Paper invoices may be sent via fax to: (202) 693-2862. Mail paper invoices to: U.S. Department of Labor, Office of Financial Management Operations Division of Client Accounting, Services Room S-5526, 200 Constitution Avenue NW, Washington, DC 20210.
+</p>
+                                 <p outputclass="List1">(f) General Information.
+</p>
+                                 <p xtrc="P">Payment due date is to be calculated from the date the invoice is received in accordance with FAR 32.905 and the instructions above.
+</p>
+                                 <p xtrc="P">Inquiries regarding invoices must be emailed to <i>OCFOinvoiceinquiries@dol.gov.</i> The relevant invoice must be attached to the inquiry email and the subject line of the email must state “INQUIRY”, as shown in the following example:
+</p>
+                                 <p xtrc="FP-1">INQUIRY: Contractor Name, DOL Agency, Contract Number, BPA Call or Order Number, Invoice Number, Invoice Amount
+</p>
+                                 <p xtrc="P">The contractor SHALL NOT use the DOL electronic invoicing email address for inquiries about any invoice.
+</p>
+                                 <p xtrc="P">
+                                    <i>Questions:</i>
+                                 </p>
+                                 <p xtrc="P">All questions regarding Electronic Invoicing shall be sent to the DOL Office of the Chief Financial Officer (OCFO) at <i>OCFOinvoiceinquiries@dol.gov.</i>
+                                 </p>
+                              <p xtrc="HD3">(End of Clause)
+
+
+
+
+</p>
+      </conbody>
+   </concept>
+</dita>

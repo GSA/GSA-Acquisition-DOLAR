@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_2901_105-2_T48_70111115">
+      <title class="- topic/title ">
+         <ph props="autonumber">2901.105-2</ph> Arrangement of regulations.</title>
+      <conbody>
+         <p outputclass="List1">(a) Where the DOLAR implements the FAR, the implementing part, subpart, section, or subsection of the DOLAR is numbered and captioned, to the extent feasible, the same as the FAR part, subpart, section, or subsection being implemented, except that the section or subsection being implemented is preceded with a “29” or a “290” such that there will always be four numbers to the left of the first decimal. For example, the DOLAR implementation of FAR 2.101 is 2902.101. The DOLAR may have gaps in its numbering scheme because a FAR rule may not require DOLAR implementation.
+
+
+
+
+</p>
+      </conbody>
+   </concept>
+</dita>

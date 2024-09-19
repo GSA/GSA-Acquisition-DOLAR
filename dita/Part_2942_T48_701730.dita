@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="Part_2942_T48_701730">
+      <title class="- topic/title ">PART 2942—CONTRACT ADMINISTRATION AND AUDIT SERVICES
+
+
+</title>
+      <body>
+         <p>
+            <ph class="- topic/ph ">Authority: </ph>
+                           5 U.S.C. 301; 40 U.S.C. 486(c).
+
+                        </p>
+         <p>
+            <ph class="- topic/ph ">Source: </ph>
+                           89 FR 66618, Aug. 16, 2024, unless otherwise noted.
+
+
+
+                        </p>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_2942_1_T48_7017301.dita#Subpart_2942_1_T48_7017301">Subpart 2942.1—Contract Audit Services</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_2942_101_T48_701730111.dita#Section_2942_101_T48_701730111">2942.101 Contract audit responsibilities.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_2942_101-70_T48_701730112.dita#Section_2942_101-70_T48_701730112">2942.101-70 Contract clause.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>
